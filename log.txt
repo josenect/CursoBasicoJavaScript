@@ -1,0 +1,23 @@
+commit 8427ff877c0d4b0d16159e567600a48151ce1beb
+Author: Jose Rodriguez <josenect@hotmail.es>
+Date:   Tue Jan 26 00:32:38 2021 -0500
+
+    archivos dde trbajo clase 3-10
+
+commit b52b4279b9eea658bed5b7e9964e4d0a86cdf732
+Author: Jose Rodriguez <josenect@hotmail.es>
+Date:   Mon Jan 25 19:46:56 2021 -0500
+
+     Variables
+
+commit e150a8a28547040ee1661239f5490ae9f6d0d22f
+Author: Jose Rodriguez <josenect@hotmail.es>
+Date:   Mon Jan 25 18:30:18 2021 -0500
+
+    re realizo tipos de valores en JavaScript
+
+commit 619e456cd8a1a4b94d32a58b4c670f8ac8a41a5d
+Author: Jose Rodriguez <josenect@hotmail.es>
+Date:   Mon Jan 25 10:08:11 2021 -0500
+
+    inicio del Curso
